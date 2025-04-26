@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=nirmal-92&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2083588" style='border:none;'></iframe>
+
